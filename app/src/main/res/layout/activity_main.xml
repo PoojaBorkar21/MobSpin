@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="10dp"
+
+    tools:context=".MainActivity">
+
+        <ImageView
+            android:id="@+id/imageview1"    xmlns:tools="http://schemas.android.com/tools"
+
+
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/animvectordrawable"
+            android:background="#909090"/>
+
+</LinearLayout>
